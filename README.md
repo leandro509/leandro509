@@ -1,7 +1,7 @@
 # Hi 👋, Im Leandro Gabriel
 
-**Estudo Ciências da Computação e atualmente estou estudando Java e buscando minha primeira oportunidade na área!**
-BR Brazil
+**Estudo Ciências da Computação e atualmente estou estudando Java e buscando minha primeira oportunidade na área!**  
+🇧🇷 Brazil
 
 ---
 
