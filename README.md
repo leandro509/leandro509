@@ -1,26 +1,67 @@
-# Hi 👋, Im Leandro Gabriel
+# Leandro Gabriel
 
-🚀 **Cursando Ciências da Computação, atualmente estou estundando Backend focado no Java e buscando minha primeira oportunidade na área!**  
+🚀 **Olá, eu sou Leandro, estudante de Ciências da Computação, escolhi essa faculdade pois sempre tive curiosidade e queria trabalhar na área da tecnologia. Tenho compromisso de continuar sempre aprendendo e em crescimento profissional, explorando novas tecnologias e metodologias para aumentar minha experiência através de cursos, literatura e networking.**  
 🇧🇷 Brazil
 
 ---
+## 🛠️ Linguagens e Tecnologias
 
-## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandrognascimento/)
+<img
+    align="left"
+    alt="HTML"
+    title="HTML"
+    width="30px"
+    style="padding-right: 25px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+/>
+          
+<img
+    align="left"
+    alt="CSS"
+    title="CSS"
+    width="30px"
+    style="padding-right: 25px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>    
 
----
+<img 
+    align="left"
+    alt="Javascript"
+    title="Javascript"
+    width="30px"
+    style="padding-right: 25px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/> 
 
-## 🛠️ Tech Stack
+<img 
+    align="left"
+    alt="Angular"
+    title="Angular"
+    width="30px"
+    style="padding-right: 25px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"       
+/> 
 
-### Frontend
+<img 
+    align="left"
+    alt="Java"
+    title="Java"
+    width="30px"
+    style="padding-right: 25px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"    
+/> 
 
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+<img 
+    align="left"
+    alt="Spring"
+    title="Spring"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" 
+/> 
 
-### Backend
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 
 
